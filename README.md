@@ -33,7 +33,7 @@ SRE with 8+ years designing and operating large-scale distributed systems. I foc
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sushruthajirnis-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sushruthajirnis/)
-[![Website](https://img.shields.io/badge/Website-CV-000000?style=flat&logo=vercel)](https://sushruthajirnis.github.io)
+[![Website](https://img.shields.io/badge/Website-CV-000000?style=flat&logo=vercel)](https://sushruthajirnis.com)
 
 ---
 
